@@ -1,6 +1,6 @@
 # Dillon-3802-final-project
 
-## importan files
+## important files
 
 final_project.ipynb - has time info for some runs 
 
